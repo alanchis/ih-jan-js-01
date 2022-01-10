@@ -61,5 +61,6 @@ const hasEngine = null
 // OBJETO
 const comida = {
     desayuno: "Hot Cakes",
-    comida: "Chilaquiles "
+    comida: "Chilaquiles",
+    cena: "manzana con quesadillas",
 }
